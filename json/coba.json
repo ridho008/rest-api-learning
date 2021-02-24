@@ -1,0 +1,26 @@
+[
+{
+   "nama" : "Ridho Surya",
+   "umur" : 21,
+   "nrp" : "34238609",
+   "lulus" : true,
+   "hobby" : [
+         "coding",
+         "gaming"
+   ],
+   "pembimbing1" : "Toni",
+   "pembimbing2" : "Roni"
+},
+{
+   "nama" : "Surya",
+   "umur" : 21,
+   "nrp" : "34238609",
+   "lulus" : true,
+   "hobby" : [
+         "coding",
+         "gaming"
+   ],
+   "pembimbing1" : "Toni",
+   "pembimbing2" : "Roni"
+}
+]
