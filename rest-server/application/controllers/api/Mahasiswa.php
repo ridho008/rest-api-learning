@@ -10,6 +10,8 @@ class Mahasiswa extends REST_Controller {
    {
       parent::__construct();
       $this->load->model('mahasiswa_model');
+      // 1 jam cuma bisa 2x
+      $this->methods['index_get']['limit'] = 2;
    }
    public function index_get()
    {
